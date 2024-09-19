@@ -1,0 +1,5 @@
+alyssa sierra hw5: https://www.shadertoy.com/view/mltBDsLinks to an external site.
+
+I noticed when you first click on the link only one boid appears. If you refresh your page, or restart the time, this problem should be resolved. 
+
+I implemented the "User Interaction" bonus. When you click a position on the screen, the boids will flee the position. In a sense, the mouse click is a predator.
